@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751142806274",
+    "firebase_url": "https://collect-4cfaa.firebaseio.com",
+    "project_id": "collect-4cfaa",
+    "storage_bucket": "collect-4cfaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751142806274:android:2e1226f0d01a279d65d81b",
+        "android_client_info": {
+          "package_name": "com.android.carrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751142806274-k7jjbgfurgohgfg1jhokudka5l8gun7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.carrental",
+            "certificate_hash": "4160b16683af4e01c6f51fdc6567d33f64746302"
+          }
+        },
+        {
+          "client_id": "751142806274-3kqe2c1246ksica0d0tkmm6l73mdsnq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjI0evmDpEfZgLkDl6a-1JaHdjoZ5s4I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751142806274-3kqe2c1246ksica0d0tkmm6l73mdsnq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
